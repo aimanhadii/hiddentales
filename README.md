@@ -10,7 +10,7 @@ Final Year Project, International Islamic University Malaysia (IIUM), Feb 2025 â
 
 ## Demo
 
-The app is not deployed live. The screenshots and video below show it running.
+The app is not deployed live. The screenshots below show it running.
 
 | Welcome page | Drawing analysis |
 |---|---|
@@ -23,8 +23,6 @@ The app is not deployed live. The screenshots and video below show it running.
 | Parenting tips | Mental health support |
 |---|---|
 | ![Parenting tips](docs/screenshots/parenting.jpg) | ![Mental health support](docs/screenshots/support.jpg) |
-
-ðŸŽ¥ **Demo video:** [link to be added](#)
 
 ## How it works
 
