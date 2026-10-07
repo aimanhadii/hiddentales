@@ -161,4 +161,4 @@ The colour and T5 models can be retrained from `colorModel_t5Model.ipynb`, which
 - LinkedIn: [linkedin.com/in/sheikh-aiman-hadi-shekh-faisal-a6b4532a1](https://www.linkedin.com/in/sheikh-aiman-hadi-shekh-faisal-a6b4532a1)
 - Email: [aimanhadi100@gmail.com](mailto:aimanhadi100@gmail.com)
 
-**Muhammad Nazrin bin Jamil**
+
