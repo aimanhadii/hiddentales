@@ -12,15 +12,17 @@ Final Year Project, International Islamic University Malaysia (IIUM), Feb 2025 â
 
 The app is not deployed live. The screenshots and video below show it running.
 
-<!-- TODO: add the images to docs/screenshots/ and replace the video link -->
-
-| Landing page | Drawing analysis |
+| Welcome page | Drawing analysis |
 |---|---|
-| ![Landing page](docs/screenshots/landing.png) | ![Drawing analysis](docs/screenshots/analysis.png) |
+| ![Welcome page](docs/screenshots/welcome.png) | ![Drawing analysis](docs/screenshots/analysis.png) |
 
-| Emotional trend and report | Parenting tips |
+| Emotional trend and report | Alert for negative emotions |
 |---|---|
-| ![Trend and report](docs/screenshots/report.png) | ![Parenting tips](docs/screenshots/parenting.png) |
+| ![Trend and report](docs/screenshots/report.png) | ![Warning alert](docs/screenshots/warning.png) |
+
+| Parenting tips | Mental health support |
+|---|---|
+| ![Parenting tips](docs/screenshots/parenting.jpg) | ![Mental health support](docs/screenshots/support.jpg) |
 
 ðŸŽ¥ **Demo video:** [link to be added](#)
 
@@ -156,7 +158,7 @@ The colour and T5 models can be retrained from `colorModel_t5Model.ipynb`, which
 
 **Sheikh Aiman Hadi bin Shekh Faisal**
 
-- LinkedIn: [your-linkedin-url](#)
-- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/sheikh-aiman-hadi-shekh-faisal-a6b4532a1](https://www.linkedin.com/in/sheikh-aiman-hadi-shekh-faisal-a6b4532a1)
+- Email: [aimanhadi100@gmail.com](mailto:aimanhadi100@gmail.com)
 
 **Muhammad Nazrin bin Jamil**

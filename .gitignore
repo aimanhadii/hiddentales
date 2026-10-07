@@ -74,6 +74,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# ── Raw screenshots (the published copies are in docs/screenshots/) ─
+/ss Fyp/
+
 # ── Reports, papers, slides, archives, media ───────────────
 researchPapers/
 fypSlides/
