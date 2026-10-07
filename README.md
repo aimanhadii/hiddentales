@@ -146,17 +146,15 @@ backend/fypModels/fypModels/
 └── nlp_model_export/nlp_model_export/HiddenTales_T5_Final/
 ```
 
-The colour and T5 models can be retrained from `colorModel_t5Model.ipynb`, which generates its own training data. The emotion model was trained on the private drawing dataset with `ViTModelFYP2.ipynb`. Contact us if you need the weights for evaluation.
+The colour and T5 models can be retrained from `colorModel_t5Model.ipynb`, which generates its own training data. The emotion model was trained on the private drawing dataset with `ViTModelFYP2.ipynb`. Contact me if you need the weights for evaluation.
 
 ## Dataset
 
 **The dataset is not included, to protect children's privacy.** The emotion model was trained on labelled children's drawings in four classes (angry, fear, happy, sad).
 
-## Authors
+## Author
 
 **Sheikh Aiman Hadi bin Shekh Faisal**
 
 - LinkedIn: [linkedin.com/in/sheikh-aiman-hadi-shekh-faisal-a6b4532a1](https://www.linkedin.com/in/sheikh-aiman-hadi-shekh-faisal-a6b4532a1)
 - Email: [aimanhadi100@gmail.com](mailto:aimanhadi100@gmail.com)
-
-
