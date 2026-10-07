@@ -1,0 +1,91 @@
+# ── Secrets ────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+*firebase-adminsdk*.json
+*serviceAccount*.json
+*service-account*.json
+*.pem
+*.key
+
+# ── Children's drawings (private, never publish) ───────────
+backend/labelDataset/
+backend/dataset/
+backend/train/
+backend/valid/
+backend/test/
+datasetYolo/
+uploads/
+backend/uploads/
+
+# ── Model weights & training outputs ───────────────────────
+backend/fypModels/
+backend/runs/
+*.torchscript
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.h5
+*.keras
+*.ckpt
+*.onnx
+*.npy
+*.npz
+
+# ── Untouched notebook copies (contain a key and a child's drawing) ─
+backend/TrainingModels/originals/
+# old experiment with a hardcoded Roboflow key
+backend/modelYOLO.ipynb
+
+# ── Old prototypes (Laravel / plain HTML, contain user DBs) ─
+# (anchored to the root so it does not match frontend/hiddentales/)
+/hiddenTales/
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Stray root-level npm files (the app lives in frontend/) ─
+/package.json
+/package-lock.json
+
+# ── Dependencies & build output ────────────────────────────
+node_modules/
+build/
+dist/
+coverage/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ── IDE / OS ───────────────────────────────────────────────
+.vscode/
+.cursor/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── Reports, papers, slides, archives, media ───────────────
+researchPapers/
+fypSlides/
+fypReportExamples/
+*.pdf
+*.doc*
+*.ppt*
+*.xls*
+*.zip
+*.rar
+*.7z
+*.mp4
+*.avi
+*.mov
+*.psd

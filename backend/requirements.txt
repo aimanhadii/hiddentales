@@ -1,0 +1,19 @@
+# Web server
+flask
+flask-cors
+python-dotenv
+requests
+
+# Database and PDF reports
+firebase-admin
+reportlab
+
+# AI / ML
+torch
+torchvision
+tensorflow
+transformers
+sentencepiece
+scikit-learn
+numpy
+pillow
